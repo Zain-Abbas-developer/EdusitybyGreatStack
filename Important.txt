@@ -1,0 +1,4 @@
+google font is {Oufit};
+simple css;
+color is being cheated from edusity by greatstack;
+Add react scroll;
